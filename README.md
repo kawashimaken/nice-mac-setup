@@ -1,7 +1,7 @@
 # nice-mac-setup
-How to make a nice **mac** workstation setup for **(Modern Javascript)MEAN stack** developers.
+A nice **Mac** workstation setup guide for **(Modern Javascript)MEAN stack** developers.
 
-# policy
+# Policy
 Simple setup, stable, efficient.
 
 # Browser
@@ -30,6 +30,8 @@ Just download and install and chill.
 [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
 
 ## Sublime 3 Package Setup
+(comming soon...)
+
 # Atom Setup
 Just download and install and chill.
 
@@ -38,6 +40,8 @@ Just download and install and chill.
 Good for markdown editing, like this readme.md
 
 ## Atom Package Setup
+(comming soon...)
+
 # Picture Editor
 Photoshop? no. [https://pixlr.com/editor/](https://pixlr.com/editor/)
 
