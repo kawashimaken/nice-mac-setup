@@ -9,13 +9,19 @@ Make sure you have a good browser. :-)
 
 [https://www.google.co.jp/chrome/browser/desktop/index.html](https://www.google.co.jp/chrome/browser/desktop/index.html)
 
+# Github desktop
+[https://desktop.github.com/](https://desktop.github.com/)
+
+# Xcode
+From your App Store
+
 # Node.js Setup
-Just download and install and chill, LST recommanded.
+LST recommanded.
 
 [https://nodejs.org/en/](https://nodejs.org/en/)
 
 # MongoDB Setup
-Just download and install and chill, LST recommanded.
+LST recommanded.
 
 [https://www.mongodb.org/downloads#production](https://www.mongodb.org/downloads#production)
 
@@ -25,7 +31,6 @@ Just download and install and chill, LST recommanded.
 [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 # Sublime 3 Setup
-Just download and install and chill.
 
 [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
 
@@ -33,7 +38,6 @@ Just download and install and chill.
 (comming soon...)
 
 # Atom Setup
-Just download and install and chill.
 
 [https://atom.io/](https://atom.io/)
 
@@ -43,13 +47,19 @@ Good for markdown editing, like this readme.md
 (comming soon...)
 
 # Picture Editor
-Photoshop? no. [https://pixlr.com/editor/](https://pixlr.com/editor/)
+Photoshop? no.
+
+[https://pixlr.com/editor/](https://pixlr.com/editor/)
 
 # VirtualBox
-Just download and install and chill. Play with as many OS as you can. [https://www.virtualbox.org/](https://www.virtualbox.org/)
+Play with as many OS as you can.
+
+[https://www.virtualbox.org/](https://www.virtualbox.org/)
 
 # Vagrant Setup
-Do the above from command line. [https://www.vagrantup.com/](https://www.vagrantup.com/) Just download and install and chill.
+Do the above from command line.
+
+[https://www.vagrantup.com/](https://www.vagrantup.com/)
 
 # Docker Setup
 Since you have already had vagrant, How about give coreos a spin?
@@ -64,8 +74,6 @@ vagrant ssh
 ```
 
 # Old school? MySQL
-Just download and install and chill.
-
 [http://dev.mysql.com/downloads/mysql/](http://dev.mysql.com/downloads/mysql/)
 
 Apache and PHP are already there in Mac(Elcatipan) PNG Problems? Compile it yourself, like a pro. :-)
