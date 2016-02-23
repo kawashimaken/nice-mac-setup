@@ -35,6 +35,9 @@ LST recommanded.
 [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
 
 ## Sublime 3 Package Setup
+
+[Link:Package Control install script](https://packagecontrol.io/installation)
+
 (comming soon...)
 
 # Atom Setup
