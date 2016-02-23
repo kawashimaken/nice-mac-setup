@@ -36,7 +36,7 @@ LST recommanded.
 
 ## Sublime 3 Package Setup
 
-Install this first[Link:Package Control install script](https://packagecontrol.io/installation)
+Install this first -> [Link:Package Control install script](https://packagecontrol.io/installation)
 
 [GitGutter](https://github.com/jisaacks/GitGutter)
 
