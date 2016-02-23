@@ -38,7 +38,16 @@ LST recommanded.
 
 [Link:Package Control install script](https://packagecontrol.io/installation)
 
-(comming soon...)
+[GitGutter](https://github.com/jisaacks/GitGutter)
+
+[HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
+
+[Sass](https://github.com/nathos/sass-textmate-bundle)
+
+[SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+
+[Seti_UI](https://github.com/ctf0/Seti_ST3)
+
 
 # Atom Setup
 
