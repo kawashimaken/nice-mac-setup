@@ -30,6 +30,9 @@ LST recommanded.
 
 [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
+# iTerm2
+[iTerm](https://www.iterm2.com/) A better terminal
+
 # Sublime 3 Setup
 
 [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
