@@ -36,9 +36,11 @@ LST recommanded.
 
 ## Sublime 3 Package Setup
 
-Install this first -> [Link:Package Control install script](https://packagecontrol.io/installation)
+[Package Control install script](https://packagecontrol.io/installation)<-- Install this first.
 
 [GitGutter](https://github.com/jisaacks/GitGutter)
+
+[CodeFormatter](https://github.com/akalongman/sublimetext-codeformatter)  <--install this before HTML-CSS-JS Prettify
 
 [HTML-CSS-JS Prettify](https://github.com/victorporof/Sublime-HTMLPrettify)
 
